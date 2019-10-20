@@ -1,0 +1,41 @@
+﻿
+@model DataApp2.Models.ForView
+
+@{
+    ViewBag.Title = "Filtration";
+}
+
+<h2>Filter some</h2>
+
+<form method="get">
+    <div class="form-inline form-group">
+        <label class="control-label">Name: </label>
+        @Html.TextBox("name", Model.Name, htmlAttributes: new { @class = "form-control" })            
+
+        <input type="submit" value="Select" class="btn btn-default" />
+    </div>
+</form>
+
+<table class="table table-striped">
+    <tr>
+        <th>Name</th>
+        <th>Company</th>
+        <th>Price</th>
+    </tr>
+
+    @foreach (var item in Model.Phones)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Company)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+        </tr>
+    }
+</table>
+

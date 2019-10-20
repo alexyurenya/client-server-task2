@@ -1,0 +1,73 @@
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.deps.json
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.dll
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.TagHelpers.input.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.TagHelpers.output.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorCoreGenerate.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorTargetAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorTargetAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.pdb
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.Views.dll
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.Views.pdb
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.Views.pdb
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.dll
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.pdb
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filtr.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.deps.json
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.dll
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.pdb
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.Views.dll
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\bin\Debug\netcoreapp2.1\DataApp2.Views.pdb
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.TagHelpers.input.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.TagHelpers.output.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorCoreGenerate.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filtr.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorTargetAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.RazorTargetAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.Views.pdb
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.dll
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.pdb
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\DataApp2.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Пользователь\Desktop\Прога\мои лабы\лабы 6 сем\ДС (Войтешенко)\DataApp2\DataApp2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
